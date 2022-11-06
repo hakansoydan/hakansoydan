@@ -3,9 +3,9 @@
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ** Php-Css-Html-Bootstrap-Javascript ** 
-- 📄 Know about my experiences via my [LinkedIn page](https://www.linkedin.com/in/hakansoydan)
+
+- 🌱 I’m currently learning **Php-Css-Html-Bootstrap-Javascript** 
+- 📄 Know about my experiences via my [Hakan Soydan](https://www.linkedin.com/in/hakansoydan)
 - 📫 Don't hesitate to touch with me on **hakansydn10@gmail.com**
  
  <br><br><br>
